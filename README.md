@@ -15,8 +15,8 @@ pip install sentrifyai
 ```
 from sentrifyai import SentrifyAI
 
-# Initialize the client with your API key
-client = SentrifyAI(api_key='your_api_key')
+# Initialize the client
+client = SentrifyAI()
 
 # List models available on SentrifyAI
 models = client.list_models()
