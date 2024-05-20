@@ -6,4 +6,3 @@ sentrifyai.egg-info/SOURCES.txt
 sentrifyai.egg-info/dependency_links.txt
 sentrifyai.egg-info/requires.txt
 sentrifyai.egg-info/top_level.txt
-tests/test_api.py

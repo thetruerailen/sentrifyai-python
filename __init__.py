@@ -1,4 +1,4 @@
 from .api import SentrifyAI
-from .exceptions import SentrifyAIError
+from .exceptions import ModelNotFoundError, APIRequestError
 
-__all__ = ['SentrifyAI', 'SentrifyAIError']
+__all__ = ['SentrifyAI', 'ModelNotFoundError', 'APIRequestError']
